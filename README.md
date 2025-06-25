@@ -41,11 +41,19 @@ With enough practical experience and knowledge after completing this course, you
 **Topics Included:**
 
 Course Introduction
+
 Chapter 01: Overview of Cloud Computing and Google Cloud
+
 Chapter 02: Overarching Principles
+
 Chapter 03: Storing Data
+
 Chapter 04: Compute Services
+
 Chapter 05: Managing and Securing Data
+
 Chapter 06: Networking Data
+
 Chapter 07: Monitoring and Enhancing Operations
+
 Chapter 08: Architecting Google Cloud Solution
